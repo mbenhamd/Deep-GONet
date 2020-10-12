@@ -1,6 +1,6 @@
 # Deep GONet
 
-From the article entitled **Deep GONet: Self-explainable deep neural network using Gene Ontology for phenotype prediction from gene expression data** 
+From the article entitled **Deep GONet: Self-explainable deep neural network based on Gene Ontology for phenotype prediction from gene expression data** 
 
 ---
 
