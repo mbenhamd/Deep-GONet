@@ -61,7 +61,7 @@ For most of the flags, the default values can be employed. *log_dir* and *save_d
 
 ### Comparison with classical fully-connected network using L2 or L1 regularization terms
 
-It is possible to compare the model with L2,L1 regularization instead of LGO.
+It is possible to compare the model with L2, L1 regularization instead of LGO.
 
 
 ```bash
