@@ -24,7 +24,7 @@ FLAGS = tf.app.flags.FLAGS
 
 # -- Configuration of the environnement --
 tf.app.flags.DEFINE_string('log_dir', "../log", "log_dir")
-tf.app.flags.DEFINE_string('dir_data', "", "repository for all the files needed for the training and the evaluation")
+tf.app.flags.DEFINE_string('dir_data', "", "Repository for all the files needed for the training and the evaluation")
 tf.app.flags.DEFINE_bool('save', False, "Do you need to save the model?")
 tf.app.flags.DEFINE_bool('restore', False, "Do you want to restore a previous model?")
 tf.app.flags.DEFINE_bool('is_training', True, "Is the model trainable?")
