@@ -11,13 +11,13 @@ class BaseModel():
         # Parameters
         self.X = X
         self.n_input = n_input
-        self.n_classes=n_classes
-        self.n_hidden_1=n_hidden_1
-        self.n_hidden_2=n_hidden_2
-        self.n_hidden_3=n_hidden_3
-        self.n_hidden_4=n_hidden_4
-        self.n_hidden_5=n_hidden_5
-        self.n_hidden_6=n_hidden_6
+        self.n_classes = n_classes
+        self.n_hidden_1 = n_hidden_1
+        self.n_hidden_2 = n_hidden_2
+        self.n_hidden_3 = n_hidden_3
+        self.n_hidden_4 = n_hidden_4
+        self.n_hidden_5 = n_hidden_5
+        self.n_hidden_6 = n_hidden_6
 
         # Hyperparameters
         self.keep_prob = keep_prob # Dropout
