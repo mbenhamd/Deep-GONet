@@ -1,6 +1,6 @@
 # Deep GONet
 
-From the article entitled **Deep GONet: Self-explainable deep neural network based on Gene Ontology for phenotype prediction from gene expression data** (submitted to APBC 2021) by Victoria Bourgeais, Farida Zehraoui, Mohamed Ben Hamdoune, and Blaise Hanczar.
+From the article entitled **Deep GONet: Self-explainable deep neural network based on Gene Ontology for phenotype prediction from gene expression data** (submitted to APBC 2021) by Mohamed Ben Hamdoune, Victoria Bourgeais, Blaise Hanczar and Farida Zehraoui.
 
 ---
 
@@ -10,17 +10,13 @@ Deep GONet is a self-explainable neural network integrating the Gene Ontology in
 
 ## Get started
 
-The code is implemented in Python using the [Tensorflow](https://www.tensorflow.org/) framework v1.12 (see [requirements.txt](https://forge.ibisc.univ-evry.fr/vbourgeais/DeepGONet/blob/master/requirements.txt) for more details)
+The code is implemented in Python using the [Tensorflow](https://www.tensorflow.org/) framework v1.12 (see [requirements.txt](https://github.com/mbenhamd/Deep-GONet/blob/master/requirements.txt) for more details)
 
 ### Dataset
 
 The full dataset can be downloaded on ArrayExpress database under the id [E-MTAB-3732](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3732/). Here, you can find the pre-processed training and test sets:
 
-[training set](https://entrepot.ibisc.univ-evry.fr/f/5b57ab5a69de4f6ab26b/?dl=1)
-
-[test set](https://entrepot.ibisc.univ-evry.fr/f/057f1ffa0e6c4aab9bee/?dl=1) 
-
-Additional files for NN architecture: [filesforNNarch](https://entrepot.ibisc.univ-evry.fr/f/6f1c513798df41999b5d/?dl=1) 
+Additional files for NN architecture can be downloaded : [filesforNNarch](https://entrepot.ibisc.univ-evry.fr/f/6f1c513798df41999b5d/?dl=1) 
 
 ### Usage
 
